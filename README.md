@@ -2,6 +2,8 @@
 
 **Cotiviti Intern Assessment — Topic 1: Clinical Natural Language Technology for Health Care**
 
+Video Presentation: https://youtu.be/D2ymV8k3gW0
+
 A Streamlit-based demonstration of Clinical NLP applied to healthcare documentation, showcasing three core capabilities:
 
 1. **Medical Named Entity Recognition (NER)** — Extracts conditions, medications, procedures, anatomical findings, and lab results from free-text clinical notes.
